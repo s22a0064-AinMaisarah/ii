@@ -1,0 +1,103 @@
+Widening Road Step,Lack of Parking Space Factor,Two Gates Step,Rainy Weather Factor,Single Gate Factor,Traffic Officers Step,Leaving Work Late Factor,Vehicle Sharing Step,Pressure on Road Users Effect,Increasing Population Factor,Students Not Sharing Vehicles,Special Drop-off Area Step,Lack of Pedestrian Bridge Factor,Damaged Road Factor,Age Group,Pedestrian Bridge Step,Race,Construction/Roadworks Factor,Environmental Pollution Effect,Late Drop-off/Pick-up Factor,Gender,Narrow Road Factor,Students Late to School Effect,Unintended Road Accidents Effect,Arrive Early Step,Time Wastage Effect,Area Type,Status,Fuel Wastage Effect,Undisciplined Driver Factor
+4,4,3,3,4,5,5,5,5,5,4,4,3,4,18 – 25 years old,4,Malay,3,4,5,Female,3,4,4,5,4,Suburban areas,University Student,4,5
+4,5,4,5,5,5,5,3,5,5,2,5,4,5,18 – 25 years old,4,Malay,4,5,5,Female,5,5,3,5,4,Suburban areas,University Student,5,2
+5,5,5,5,5,4,3,4,5,5,4,5,5,4,18 – 25 years old,5,Malay,5,4,5,Female,5,5,5,5,4,Suburban areas,University Student,5,4
+5,5,5,5,4,5,4,5,5,3,4,5,4,5,18 – 25 years old,5,Malay,5,5,3,Female,5,5,5,5,4,Suburban areas,University Student,4,5
+4,4,4,4,4,4,4,4,4,4,4,4,4,4,18 – 25 years old,4,Malay,4,4,4,Female,4,4,4,4,4,Rural areas,University Student,4,4
+3,5,3,3,3,5,2,1,3,1,2,5,4,3,18 – 25 years old,4,Malay,2,3,2,Female,5,5,2,2,5,Suburban areas,University Student,5,5
+5,2,5,5,3,5,1,5,5,3,4,5,1,1,18 – 25 years old,5,Malay,1,5,1,Female,3,3,3,5,3,Urban areas,Teacher,5,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Rural areas,University Student,5,5
+5,1,5,5,2,5,5,5,5,4,3,5,4,3,18 – 25 years old,5,Malay,4,5,4,Female,5,5,2,5,5,Urban areas,University Student,4,4
+4,5,4,5,5,4,5,4,5,5,4,4,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,4,5,Urban areas,University Student,5,5
+3,3,3,3,3,3,4,4,3,4,3,4,3,3,18 – 25 years old,4,Malay,4,4,3,Male,3,3,3,3,3,Rural areas,University Student,4,3
+4,2,3,2,2,4,3,4,3,2,2,3,2,2,18 – 25 years old,4,Malay,2,4,2,Female,2,4,4,3,3,Urban areas,University Student,3,3
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,26 – 35 years old,5,Chinese,5,5,5,Male,5,5,5,5,5,Suburban areas,Teacher,5,5
+4,5,4,5,5,5,5,4,5,5,5,5,5,5,26 – 35 years old,4,Malay,5,5,5,Female,5,5,4,5,4,Suburban areas,Parents,4,5
+4,5,5,5,5,5,5,3,5,5,5,5,5,5,36 – 45 years old,5,Malay,5,5,5,Female,5,5,5,4,5,Suburban areas,Teacher,5,5
+4,3,4,3,3,4,3,4,4,3,3,4,3,3,46 – 55 years old,4,Malay,3,4,3,Male,3,4,4,4,4,Rural areas,Parents,4,3
+5,5,4,4,4,4,4,4,5,4,4,5,4,5,Below 18 years old,4,Malay,5,4,4,Female,5,5,4,4,5,Rural areas,Student ( Primary / Secondary),4,5
+5,5,4,4,4,4,4,4,5,4,4,5,4,5,Below 18 years old,4,Malay,5,4,4,Female,5,5,4,4,5,Rural areas,Student ( Primary / Secondary),4,5
+5,5,4,4,4,4,4,4,5,4,4,5,4,5,Below 18 years old,4,Malay,5,4,4,Female,5,5,4,4,5,Rural areas,Student ( Primary / Secondary),4,5
+5,4,5,5,5,5,3,2,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,University Student,5,5
+5,5,5,5,5,5,3,3,5,5,2,5,5,5,18 – 25 years old,5,Malay,5,5,2,Male,5,5,4,4,5,Suburban areas,Resident / Road User,5,5
+4,4,4,4,2,3,2,3,4,4,2,4,4,3,18 – 25 years old,3,Malay,3,3,3,Female,3,4,4,4,3,Urban areas,University Student,3,3
+5,5,5,5,5,5,4,5,5,5,3,5,5,5,18 – 25 years old,5,Malay,5,5,4,Female,5,5,5,3,5,Rural areas,University Student,5,5
+4,5,4,3,5,4,5,4,4,4,4,4,4,2,46 – 55 years old,4,Malay,3,4,5,Female,3,4,4,4,4,Suburban areas,Parents,4,1
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,46 – 55 years old,5,Malay,5,5,5,Male,5,5,5,5,5,Rural areas,Parents,5,5
+5,5,5,5,5,5,5,5,5,5,4,5,5,5,Above 55 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Rural areas,Parents,5,5
+3,4,3,2,4,4,2,3,3,2,2,5,3,3,Above 55 years old,2,Malay,2,3,3,Male,3,3,2,3,3,Urban areas,Resident / Road User,3,5
+5,4,5,5,5,5,5,5,5,5,5,5,5,5,46 – 55 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,Teacher,5,5
+4,3,4,4,1,4,3,4,3,4,1,4,4,4,18 – 25 years old,4,Malay,4,3,4,Female,4,2,4,4,4,Rural areas,Teacher,4,3
+5,5,5,4,5,5,5,5,5,4,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,Resident / Road User,5,5
+4,4,5,5,5,5,3,3,5,4,2,5,2,4,Above 55 years old,4,Malay,3,5,4,Female,5,5,4,5,4,Suburban areas,Resident / Road User,4,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Male,5,5,5,5,5,Rural areas,University Student,5,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Rural areas,University Student,5,5
+4,5,5,5,5,5,4,5,5,5,5,5,4,5,18 – 25 years old,5,Malay,5,5,2,Female,5,5,5,5,5,Urban areas,University Student,5,4
+5,5,5,5,4,5,1,1,5,4,1,5,5,5,26 – 35 years old,5,Malay,5,5,4,Female,5,5,5,5,5,Rural areas,Parents,5,5
+5,5,5,5,1,5,5,2,5,5,1,5,5,5,26 – 35 years old,5,Malay,1,5,3,Female,5,5,5,5,5,Urban areas,Resident / Road User,5,5
+5,5,5,5,1,5,5,1,5,5,1,5,5,5,18 – 25 years old,5,Malay,5,5,1,Female,5,5,5,5,5,Rural areas,Resident / Road User,5,5
+5,5,5,4,2,5,3,4,4,4,2,5,3,4,26 – 35 years old,5,Malay,4,3,3,Male,3,4,3,5,4,Urban areas,Resident / Road User,3,4
+5,5,5,5,3,5,3,5,5,3,3,5,5,5,26 – 35 years old,5,Malay,5,5,3,Male,5,5,5,5,5,Urban areas,Parents,5,5
+5,5,5,5,5,5,1,3,5,5,3,5,5,5,18 – 25 years old,5,Malay,5,5,3,Female,3,5,5,5,5,Urban areas,University Student,3,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Rural areas,University Student,5,5
+4,5,5,5,4,5,5,2,5,4,2,5,5,5,18 – 25 years old,5,Malay,5,5,3,Female,5,4,5,5,4,Urban areas,University Student,3,5
+5,5,4,3,3,4,3,3,5,5,2,3,2,5,46 – 55 years old,3,Malay,5,5,2,Female,5,5,5,4,5,Urban areas,Resident / Road User,5,2
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,University Student,5,5
+5,4,5,5,1,5,4,4,5,4,3,5,5,5,18 – 25 years old,5,Malay,4,5,4,Female,5,5,5,5,5,Urban areas,University Student,5,5
+5,5,3,5,3,5,5,5,5,5,5,5,3,5,18 – 25 years old,3,Malay,5,4,5,Female,5,4,4,4,5,Urban areas,University Student,5,5
+4,4,4,4,1,4,4,4,4,4,3,4,4,4,18 – 25 years old,4,Malay,3,4,4,Female,3,4,2,4,4,Urban areas,Teacher,4,3
+4,5,4,4,4,4,4,3,4,4,2,4,4,4,18 – 25 years old,4,Malay,4,4,4,Male,4,4,4,4,4,Urban areas,University Student,4,4
+5,5,5,5,5,4,5,5,4,5,5,5,5,5,18 – 25 years old,5,Malay,5,4,5,Female,5,5,5,5,5,Rural areas,University Student,4,5
+5,5,5,4,1,5,3,3,5,2,3,5,5,5,18 – 25 years old,4,Malay,5,5,3,Female,5,5,5,4,5,Urban areas,University Student,5,5
+5,5,5,4,5,5,5,5,5,5,3,5,5,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Rural areas,University Student,5,5
+4,4,5,3,4,5,2,4,5,4,2,5,5,5,18 – 25 years old,5,Malay,4,3,1,Female,4,4,2,5,5,Rural areas,Resident / Road User,4,3
+5,4,4,5,4,4,3,3,3,4,2,5,3,4,18 – 25 years old,3,Malay,3,3,3,Female,5,4,2,5,4,Urban areas,Resident / Road User,3,3
+4,3,4,3,4,4,2,2,4,3,1,4,3,5,26 – 35 years old,4,Malay,4,3,2,Female,2,4,4,4,4,Urban areas,Resident / Road User,3,4
+5,5,5,2,2,5,1,5,4,5,4,5,2,5,18 – 25 years old,5,Malay,4,5,1,Female,5,5,4,5,5,Rural areas,University Student,4,4
+5,1,5,3,1,5,4,5,5,3,1,5,1,1,18 – 25 years old,5,Malay,5,5,2,Female,1,5,5,5,5,Urban areas,Teacher,1,5
+4,2,4,4,4,4,4,4,4,4,4,4,4,4,18 – 25 years old,4,Malay,4,4,1,Male,4,4,4,4,4,Rural areas,University Student,4,4
+5,5,5,4,5,5,4,5,5,4,4,5,3,5,18 – 25 years old,5,Malay,4,5,4,Female,5,5,3,5,4,Urban areas,Resident / Road User,1,3
+4,5,5,4,3,5,1,4,5,5,1,5,4,5,36 – 45 years old,4,Malay,5,5,3,Female,5,5,2,5,5,Urban areas,Parents,5,5
+3,4,3,3,4,4,2,2,4,2,1,4,4,4,18 – 25 years old,4,Malay,4,4,3,Female,3,4,3,3,4,Rural areas,University Student,4,4
+5,5,5,5,5,5,5,5,5,5,3,5,5,5,18 – 25 years old,5,Malay,5,4,2,Female,5,4,4,5,4,Rural areas,Resident / Road User,4,5
+4,4,4,4,5,4,3,3,5,5,3,4,5,4,18 – 25 years old,4,Malay,5,5,4,Female,5,5,5,3,5,Urban areas,Student ( Primary / Secondary),5,5
+5,4,5,4,5,4,5,4,5,5,3,5,3,5,18 – 25 years old,5,Malay,4,4,4,Female,4,5,4,3,4,Rural areas,University Student,4,4
+4,4,4,4,4,4,2,1,4,4,2,4,4,4,Above 55 years old,4,Malay,4,4,1,Male,4,4,4,4,4,Suburban areas,Parents,4,4
+3,5,4,4,3,4,3,3,4,3,2,4,3,5,36 – 45 years old,4,Malay,5,4,3,Male,3,4,4,3,4,Urban areas,Parents,4,5
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,18 – 25 years old,3,Malay,3,3,3,Female,3,3,3,3,3,Urban areas,University Student,3,3
+5,5,4,5,3,5,4,3,5,4,3,5,4,3,18 – 25 years old,5,Malay,4,3,3,Female,3,5,4,4,5,Rural areas,University Student,4,5
+5,4,5,4,5,5,5,5,5,5,3,5,4,5,18 – 25 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,Resident / Road User,5,5
+4,5,4,5,5,5,4,4,4,4,3,5,4,4,18 – 25 years old,4,Malay,3,3,5,Male,4,4,3,5,4,Urban areas,University Student,4,5
+5,5,5,3,3,5,5,5,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,5,4,Female,5,5,5,5,5,Urban areas,University Student,5,5
+4,5,5,5,5,5,3,5,5,5,4,5,4,5,18 – 25 years old,4,Malay,5,5,3,Female,5,5,5,5,5,Rural areas,University Student,4,5
+4,4,4,5,5,4,4,4,5,4,4,4,5,4,Below 18 years old,4,Malay,5,5,4,Female,4,5,5,4,5,Urban areas,Student ( Primary / Secondary),5,5
+3,5,3,5,5,4,5,4,4,5,5,3,5,5,36 – 45 years old,3,Malay,5,4,5,Female,5,5,5,4,5,Suburban areas,Resident / Road User,4,5
+5,5,5,3,4,5,5,3,5,5,4,5,1,4,26 – 35 years old,4,Others,4,3,4,Female,4,4,3,4,5,Rural areas,University Student,4,4
+4,5,3,5,3,4,1,2,5,3,3,4,5,4,18 – 25 years old,4,Malay,4,5,4,Male,4,3,4,2,5,Rural areas,University Student,5,4
+2,4,3,2,4,3,1,3,4,3,3,3,3,3,18 – 25 years old,3,Malay,3,4,1,Male,3,3,2,3,4,Urban areas,University Student,3,2
+3,2,3,1,2,1,4,4,2,1,4,2,2,2,36 – 45 years old,3,Malay,2,2,2,Female,1,1,1,2,2,Urban areas,Parents,2,2
+5,5,4,4,4,4,5,4,5,4,4,5,4,2,18 – 25 years old,4,Malay,5,4,4,Male,3,5,3,5,5,Urban areas,University Student,4,4
+5,5,5,5,4,3,5,4,5,4,4,5,4,3,18 – 25 years old,4,Malay,5,5,5,Male,5,5,4,5,5,Urban areas,University Student,3,4
+5,5,5,5,4,5,5,3,5,3,3,5,4,5,18 – 25 years old,4,Malay,5,5,5,Male,5,5,4,5,5,Rural areas,University Student,3,3
+4,2,4,5,2,4,4,2,5,2,2,3,3,4,Below 18 years old,3,Malay,3,4,4,Female,5,5,3,5,5,Rural areas,Student ( Primary / Secondary),4,4
+5,5,4,4,4,3,5,4,5,5,4,5,4,5,18 – 25 years old,5,Malay,5,5,5,Male,4,4,5,5,4,Urban areas,University Student,4,5
+1,5,1,1,1,5,5,1,1,5,1,1,5,1,18 – 25 years old,5,Malay,1,1,5,Male,5,5,5,1,5,Rural areas,Student ( Primary / Secondary),1,5
+5,4,5,4,2,5,3,5,5,5,2,5,3,2,26 – 35 years old,5,Malay,4,5,3,Male,4,5,4,5,5,Rural areas,Resident / Road User,4,2
+4,3,5,2,1,4,2,4,5,3,1,5,5,5,18 – 25 years old,5,Malay,1,5,1,Female,3,5,1,5,5,Urban areas,Student ( Primary / Secondary),1,1
+5,5,4,4,4,4,3,4,4,4,3,4,4,5,18 – 25 years old,4,Malay,5,4,4,Male,4,5,4,4,5,Rural areas,University Student,3,4
+5,5,5,5,3,4,4,3,4,5,3,5,4,5,26 – 35 years old,5,Malay,4,3,1,Female,5,5,4,4,2,Rural areas,Parents,3,4
+4,4,4,4,4,4,4,4,4,4,4,4,4,4,46 – 55 years old,4,Malay,4,4,4,Female,4,4,4,4,4,Rural areas,Parents,4,4
+3,3,3,5,4,5,3,5,4,3,2,5,3,4,Below 18 years old,3,Malay,2,4,5,Male,5,4,5,5,5,Rural areas,Student ( Primary / Secondary),5,2
+5,5,5,5,5,5,5,5,5,5,5,5,5,4,18 – 25 years old,5,Malay,5,5,3,Female,4,4,3,5,4,Urban areas,University Student,4,5
+4,3,5,5,1,5,3,5,5,3,5,5,5,3,18 – 25 years old,5,Malay,5,2,5,Female,5,5,5,5,4,Suburban areas,Resident / Road User,1,3
+3,1,2,2,1,2,3,3,3,2,3,1,2,1,18 – 25 years old,1,Malay,2,3,1,Female,1,2,2,2,1,Urban areas,Student ( Primary / Secondary),2,1
+5,5,5,4,4,5,5,5,5,5,4,4,5,4,18 – 25 years old,5,Malay,5,4,5,Female,4,4,5,5,5,Rural areas,University Student,5,5
+4,5,4,4,5,5,4,4,5,5,5,5,5,5,18 – 25 years old,5,Malay,5,4,4,Male,4,5,4,5,5,Rural areas,University Student,4,5
+4,4,4,4,4,4,4,4,4,4,4,4,4,4,18 – 25 years old,4,Malay,4,4,4,Male,4,4,4,4,4,Urban areas,Resident / Road User,4,4
+5,5,5,3,4,5,5,3,5,2,2,5,5,4,18 – 25 years old,5,Malay,5,5,2,Female,3,5,5,5,5,Suburban areas,University Student,5,4
+5,2,5,5,5,5,1,2,5,4,1,4,5,5,26 – 35 years old,5,Malay,5,3,1,Female,5,3,4,4,5,Urban areas,Resident / Road User,2,5
+5,5,5,4,1,4,3,4,5,4,4,5,5,5,18 – 25 years old,5,Malay,5,5,2,Female,5,5,5,3,5,Urban areas,Resident / Road User,5,3
+5,5,5,5,1,5,1,5,5,5,1,5,1,5,Below 18 years old,5,Malay,5,5,5,Male,5,5,5,5,5,Urban areas,Student ( Primary / Secondary),5,5
+5,5,5,5,5,5,5,1,5,2,1,5,5,5,26 – 35 years old,5,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,Resident / Road User,5,5
+5,3,2,5,5,5,5,5,5,5,2,5,4,5,18 – 25 years old,3,Malay,5,5,5,Female,5,5,5,5,5,Urban areas,University Student,5,5
+4,5,5,5,3,5,3,4,5,3,3,5,5,5,18 – 25 years old,5,Malay,4,4,3,Male,5,5,5,5,5,Urban areas,University Student,3,5
